@@ -1,0 +1,12 @@
+POC_Curdop/
+├── model/
+│   └── Account.java
+├── repository/
+│   └── AccountRepository.java
+├── service/
+│   └── AccountService.java
+        AccountServiceImpl.java
+├── controller/
+│   └── AccountController.java
+├── application.properties
+└── BankManagementApplication.java
